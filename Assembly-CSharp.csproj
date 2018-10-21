@@ -61,7 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\camera.cs" />
+    <Compile Include="Assets\CameraFlow.cs" />
+    <Compile Include="Assets\NavTest.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/mou/mars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
